@@ -1,5 +1,5 @@
 # log-in-port-folio
-help those who have a problem in creating a log in portfolio make it quick and easy hope you have fun
+help those who have a problem in creating a log in port make it quick and easy hope you have fun
 <form action="action_page.php" method="post">
   <div class="imgcontainer">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
